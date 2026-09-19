@@ -9,7 +9,7 @@ A robust, interactive command-line calculator built with Python. Designed with i
   - Prevents crash on division by zero (`ZeroDivisionError`).
   - Validates float inputs to prevent crashes on non-numeric entries (`ValueError`).
   - Rejects unsupported mathematical operators.
-- **Interactive CLI Loop:** Continuous execution until the user explicitly exits.
+
 
 ## Requirements
 
